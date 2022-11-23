@@ -1,4 +1,10 @@
-![](https://openpharma.s3.us-east-2.amazonaws.com/streamlit_img/logo.png) OpenPharma
+
+
+<p align="right">
+  <img src="https://openpharma.s3.us-east-2.amazonaws.com/streamlit_img/logo.png" />
+</p>
+
+# OpenPharma 
 
 This Github organization is managed under the following principals:
 
