@@ -13,7 +13,7 @@ This Github organization is managed under the following principals:
 - openpharma is open to any project related to the Pharma industry
 - openpharma makes no assumptions on what packages are part of an ‘ideal’ workflow
 - a preference is always placed on opensource from day 1, but openpharma will also host packages in private repos on request
-- currently, admin access to the org is shared between Roche and Novartis
+- This org is governed by the non-profit Open Source in Pharma (opensourceinpharma.com)
 - openpharma will not hold any IP or copyright of associated projects, it will not be a platform for discussion or host initiatives, and it will not release opinions or standards on which repositories form part of an ideal workflow.
 - all projects added to openpharma must have an open source license and specify how the repository authors wish to assign copyright
 
